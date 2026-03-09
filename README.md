@@ -8,7 +8,7 @@
 
 | # | Módulo | Repositorio | Tecnologías |
 |---|--------|-------------|-------------|
-| 1 | Lenguaje de Marcas y Diseño de Interfaces | [daw-markup-and-web] | HTML5, CSS3, Bootstrap |
+| 1 | Lenguaje de Marcas y Diseño de Interfaces | [daw-markup-and-web](https://github.com/imagar2025-web/daw-markup-and-web) | HTML5, CSS3, Bootstrap |
 | 2 | Programación | [daw-programming-java](https://github.com/imagar2025-web/daw-programming-java) | Java, POO, JDBC, Servelts |
 | 3 | Bases de Datos | [daw-databases] | MySQL, SQL, modelado E-R |
 | 4 | Desarrollo Web en Entorno Cliente | [daw-client-side] | JavaScript, jQuery, Vue.js |
